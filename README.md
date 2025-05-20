@@ -33,6 +33,7 @@ This system uses a Raspberry Pi to detect motion and save video footage or snaps
 - `images/demo.jpg`: Example image or snapshot from the system
 
 ## Demo
+Should Display "Motion Capture"
 
 ![Motion Capture](images/demo.jpg)
 
